@@ -1,2 +1,1 @@
 Docker Image with java8.
-You need the following commnand in command prompt to create the docker image:
